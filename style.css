@@ -25,14 +25,16 @@ nav a {
 figcaption {
   text-align: center;
 }
-featured-property > p {
+#featured-property > p {
   text-align: center;
+  margin: auto;
+  width: 800px;
 }
 div {
   float: left;
   text-align: center;
   margin-right: 185px;
 }
-section#id {
+#section > details {
   background-color: crimson;
 }
